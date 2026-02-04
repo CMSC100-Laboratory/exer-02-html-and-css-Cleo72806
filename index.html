@@ -1,93 +1,72 @@
 <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mark Leo T. Abucay | Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body id="top">
+    <!-- Logo and Navigation Bar -->
+    <header>
+        <!-- Your specific logo file -->
+        <img src="leoLogo.jpg" alt="Logo" class="logo">
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
 
-<html>
-  <head>
-    <title>Sample Web Page</title>
-    <link rel="stylesheet" type="text/css" href="flex.css" />
+    <main>
+        <!-- Featured Photo & Autobiography -->
+        <section id="about" class="hero">
+            <img src="myPhoto.jpg" alt="Mark Leo T. Abucay" class="featured-photo">
+            <div class="bio">
+                <h1>Hi, I'm Mark Leo T. Abucay</h1>
+                <p>I am a Computer Science student specializing in <strong>web programming</strong>, <strong>data management</strong>, and <strong>data analysis</strong>. I am passionate about building efficient solutions and deriving insights from data.</p>
+            </div>
+        </section>
 
-  </head>
+        <!-- Skills -->
+        <section id="skills">
+            <h2>Skills</h2>
+            <div class="skills-container">
+                <div class="skill-item">Web Programming</div>
+                <div class="skill-item">Data Management</div>
+                <div class="skill-item">HTML/CSS</div>
+		<div class="skill-item">Java Language</div>
+		<div class="skill-item">C Language</div>
+		<div class="skill-item">Python Language</div>
+		<div class="skill-item">R Language</div>
+		<div class="skill-item">Dart Language</div>
+            </div>
+        </section>
 
-  <body>
-    
-    <nav>
-    <div class="nav_bar" >
-        <div class="flex-item" style="flex: 1">
-            <a href="/html/">HTML</a> |
-        </div>
-        <div class="flex-item" style="flex: 1">
-            <a href="/css/">CSS</a>
-        </div> 
-    |   <div class="flex-item" style="flex: 1">
-            <a href="/js/">JavaScript</a> |
-        </div>
-        <div class="flex-item" style="flex: 1">
-            <a href="/python/">Python</a>
-        </div>
-    </div>
-    </nav>
+        <!-- Previous Projects -->
+        <section id="projects">
+            <h2>Previous Projects</h2>
+            <div class="projects-container">
+                <div class="project-item">Connection Game Project</div>
+                <div class="project-item">City Pollution Reduction Plan</div>
+                <div class="project-item">PJDSC 2025 Participant</div>
+                <div class="project-item">1st Naga City Mayoral Hackathon Participant</div>
+            </div>
+        </section>
+    </main>
 
-    <div class="flex-container">
-        <div class="flex-item" style="flex: 3;">
-            <h1>1</h1>
-            <p>This is a paragraph</p>
+    <!-- Footer Contents -->
+    <footer id="contact">
+        <div class="footer-content">
+            <!-- Added logo here -->
+            <img src="leoLogo.jpg" alt="Logo" class="footer-logo">
+            <p>Los Baños, Philippines | mtabucay@up.edu.ph</p>
+            <p>&copy; 2024 Mark Leo T. Abucay. All Rights Reserved.</p>
+            <a href="#top" class="back-to-top">Back to Top ↑</a>
         </div>
-        <div class="flex-item" style="flex: 3;">
-            <h1>2</h1>
-            <p>This is another paragraph</p>
-        </div>
-        <div class="flex-item" style="flex: 2;">
-            <h1>3</h1>
-            <p>This is another paragraph</p>
-            <p>This is another paragraph</p>
-        </div>
-        <div class="flex-item" style="flex: 4;">
-            <h1>4</h1>
-            <p>This is another paragraph</p>
-        </div>
-        <div class="flex-item" style="flex: 3;">
-            <h1>5</h1>
-            <p>This is another paragraph</p>
-            <p>This is another paragraph</p>
-            <p>This is another paragraph</p>
-            <p>This is another paragraph</p>
-            <p>This is another paragraph</p>
-        </div>
-        <div class="flex-item" style="flex: 1;">
-            <h1>6</h1>
-            <p>This is another paragraph</p>
-        </div>
-    </div>
-    <div class="flex-container2">
-        <div class="flex-item" style="flex: 3;">
-            <h1>1</h1>
-            <p>This is a paragraph</p>
-        </div>
-        <div class="flex-item" style="flex: 3;">
-            <h1>2</h1>
-            <p>This is another paragraph</p>
-        </div>
-        <div class="flex-item" style="flex: 2;">
-            <h1>3</h1>
-            <p>This is another paragraph</p>
-            <p>This is another paragraph</p>
-        </div>
-        <div class="flex-item" style="flex: 4;">
-            <h1>4</h1>
-            <p>This is another paragraph</p>
-        </div>
-        <div class="flex-item" style="flex: 3;">
-            <h1>5</h1>
-            <p>This is another paragraph</p>
-            <p>This is another paragraph</p>
-            <p>This is another paragraph</p>
-            <p>This is another paragraph</p>
-            <p>This is another paragraph</p>
-        </div>
-        <div class="flex-item" style="flex: 1;">
-            <h1>6</h1>
-            <p>This is another paragraph</p>
-        </div>
-    </div>
-  </body>
-
+    </footer>
+</body>
 </html>
