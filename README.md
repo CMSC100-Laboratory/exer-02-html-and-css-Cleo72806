@@ -2,7 +2,7 @@
 
 # 
 
-# This is a portfolio site I built as an exercise for my CMSC100 Lab class. It showcases my skills, projects, and contact info.
+# This README contains the required information for the CMSC100 U3L exercise.
 
 # 
 
@@ -10,11 +10,15 @@
 
 # 
 
-# \*   \*\*Full Name:\*\* Mark Leo T. Abucay
+# Full Name: Mark Leo T. Abucay
 
-# \*   \*\*Degree Program:\*\* Bachelor of Science in Computer Science
+# Student Number: 202415352 
 
-# \*   \*\*Live Website Link:\*\*
+# Course/Section: CMSC 100 U3L 
+
+# Date Submitted: February 04, 2026
+
+# Live Website Link: \[]
 
 # 
 
@@ -48,13 +52,13 @@
 
 # 
 
-# \*   \*\*Structuring HTML:\*\* Getting a better feel for using semantic tags like `<header>`, `<section>`, and `<footer>` to organize the page properly.
+# \*   Structuring HTML: Getting a better feel for using semantic tags like `<header>`, `<section>`, and `<footer>` to organize the page properly.
 
-# \*   \*\*Modern CSS:\*\* Practicing layout with both Flexbox (for the navigation and hero section) and CSS Grid (for the two-column project and skills lists).
+# \*   Modern CSS: Practicing layout with both Flexbox (for the navigation and hero section) and CSS Grid (for the two-column project and skills lists).
 
-# \*   \*\*Making it Responsive:\*\* Using media queries to make sure the site looks good on both my desktop and my phone.
+# \*   Making it Responsive: Using media queries to make sure the site looks good on both my desktop and my phone.
 
-# \*   \*\*The GitHub Flow:\*\* Getting comfortable with `git add`, `git commit`, `git push`, and understanding how GitHub Pages works for deployment.
+# \*   The GitHub Flow: Getting comfortable with `git add`, `git commit`, `git push`, and understanding how GitHub Pages works for deployment.
 
 # 
 
