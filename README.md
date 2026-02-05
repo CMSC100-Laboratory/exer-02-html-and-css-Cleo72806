@@ -18,7 +18,7 @@
 
 # Date Submitted: February 04, 2026
 
-# Live Website Link: \[]
+# Live Website Link: https://cmsc100-laboratory.github.io/exer-02-html-and-css-Cleo72806/
 
 # 
 
@@ -61,4 +61,3 @@
 # \*   The GitHub Flow: Getting comfortable with `git add`, `git commit`, `git push`, and understanding how GitHub Pages works for deployment.
 
 # 
-
